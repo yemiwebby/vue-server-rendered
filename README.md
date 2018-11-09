@@ -23,7 +23,6 @@ $ npm install
 
 
 ## Build Setup
-
 ``` bash
 # install dependencies
 $ npm install # Or yarn install
@@ -46,5 +45,4 @@ For detailed explanation on how things work, checkout the [Nuxt.js docs](https:/
 A knowledge of JavaScript and Vue.js
 
 ## Built With
-
 * [Nuxt.js](https://nuxtjs.org/) - A JavaScript library for building universal Vue.js applications.
