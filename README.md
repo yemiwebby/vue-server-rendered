@@ -7,6 +7,7 @@ Server side rendering of a Vue.js project
 ## Getting Started
 
 ### Clone the repository
+
 ```bash
 $ git clone https://github.com/yemiwebby/vue-server-rendered.git
 ```
