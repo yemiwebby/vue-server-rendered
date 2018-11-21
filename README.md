@@ -5,7 +5,6 @@ Server side rendering of a Vue.js project
 ![ezgif com-crop 2](https://user-images.githubusercontent.com/19610753/46266831-f33d1e00-c529-11e8-9360-6d6a1c18853d.gif)
 
 ## Getting Started
-
 ### Clone the repository
 
 ```bash
@@ -13,11 +12,13 @@ $ git clone https://github.com/yemiwebby/vue-server-rendered.git
 ```
 
 ### Change directory
+
 ```bash
 $ cd vue-server-rendered
 ```
 
 ### Install dependencies
+
 ```bash
 $ npm install
 ```
